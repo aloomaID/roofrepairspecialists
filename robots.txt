@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://roofrepairspecialists.xyz/sitemap_index.xml
